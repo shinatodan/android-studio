@@ -1,1 +1,1 @@
-Team-developed household accounting application ininternship and its tutorial.
+Team-developed household accounting application in internship and its tutorial.
